@@ -1,0 +1,201 @@
+CustomerID,Gender,SeniorCitizen,TenureMonths,InternetService,MonthlyCharges,TotalCharges,Contract,PaymentMethod,SupportCalls,Churn
+CUST1000,Male,1,56,Fiber,86.97,4828.81,Month-to-month,Credit Card,8,0
+CUST1001,Male,0,19,Fiber,22.12,421.74,One year,Bank Transfer,6,1
+CUST1002,Female,1,48,,112.05,5337.52,One year,UPI,0,0
+CUST1003,Male,0,60,Fiber,106.54,6409.03,Month-to-month,Bank Transfer,3,0
+CUST1004,Male,0,63,Fiber,20.86,1326.32,Month-to-month,Credit Card,3,0
+CUST1005,Male,1,72,Fiber,49.77,3551.54,Month-to-month,Debit Card,3,0
+CUST1006,Male,1,8,Fiber,23.24,212.39,One year,Bank Transfer,0,0
+CUST1007,Male,1,8,DSL,24.04,200.23,One year,Credit Card,4,1
+CUST1008,Male,1,50,,95.48,4777.88,One year,UPI,8,0
+CUST1009,Female,1,8,DSL,108.42,826.11,Month-to-month,Credit Card,1,1
+CUST1010,Female,0,15,Fiber,111.35,1703.43,Two year,Credit Card,6,1
+CUST1011,Female,0,47,Fiber,52.84,2454.34,One year,Credit Card,0,0
+CUST1012,Male,1,59,Fiber,75.85,4451.38,Two year,Bank Transfer,7,0
+CUST1013,Male,1,40,Fiber,43.0,1751.73,One year,Debit Card,1,0
+CUST1014,Female,0,52,,114.72,5934.94,Two year,Credit Card,3,0
+CUST1015,Female,0,11,Fiber,71.13,772.89,Month-to-month,Bank Transfer,6,0
+CUST1016,Male,0,1,Fiber,49.63,69.76,Month-to-month,Credit Card,4,0
+CUST1017,Female,1,5,DSL,23.95,119.26,One year,UPI,3,0
+CUST1018,Female,0,57,Fiber,78.53,4437.67,One year,Debit Card,0,0
+CUST1019,Female,0,13,DSL,53.7,726.29,Month-to-month,UPI,2,0
+CUST1020,Female,1,35,Fiber,23.9,830.44,Two year,UPI,3,0
+CUST1021,Female,0,13,DSL,40.88,524.47,Month-to-month,Bank Transfer,4,1
+CUST1022,Male,1,52,Fiber,23.95,1211.7,Month-to-month,Debit Card,0,0
+CUST1023,Female,0,30,DSL,41.47,1205.23,Two year,UPI,4,0
+CUST1024,Female,0,51,,50.77,2616.14,Month-to-month,Bank Transfer,6,1
+CUST1025,Female,1,3,Fiber,53.63,156.92,Month-to-month,Bank Transfer,7,0
+CUST1026,Male,0,72,DSL,100.46,7259.8,Two year,Debit Card,5,0
+CUST1027,Female,0,13,Fiber,42.79,549.7,One year,UPI,8,0
+CUST1028,Male,1,49,,31.78,1524.73,Month-to-month,UPI,3,0
+CUST1029,Female,1,12,Fiber,33.44,390.99,Month-to-month,UPI,6,0
+CUST1030,Female,1,44,,91.56,4006.94,Two year,Debit Card,7,1
+CUST1031,Female,0,3,Fiber,99.22,291.19,Two year,Credit Card,4,0
+CUST1032,Male,0,28,DSL,65.52,1828.5,One year,Debit Card,0,0
+CUST1033,Male,1,30,Fiber,76.37,2249.31,Month-to-month,Credit Card,8,1
+CUST1034,Female,0,46,Fiber,105.33,4853.95,Two year,UPI,8,0
+CUST1035,Female,1,58,,66.09,3821.67,Month-to-month,UPI,8,1
+CUST1036,Male,1,5,DSL,69.26,353.46,One year,UPI,8,0
+CUST1037,Male,0,68,DSL,38.91,2618.28,Month-to-month,Credit Card,8,1
+CUST1038,Female,1,24,Fiber,88.35,2115.63,Month-to-month,Bank Transfer,5,0
+CUST1039,Female,1,43,DSL,32.07,1384.38,Month-to-month,Bank Transfer,4,0
+CUST1040,Male,0,64,DSL,36.34,2352.35,One year,Debit Card,0,0
+CUST1041,Female,0,15,DSL,87.37,1299.54,One year,Bank Transfer,8,0
+CUST1042,Male,0,10,Fiber,30.45,305.51,One year,Bank Transfer,1,1
+CUST1043,Male,1,15,Fiber,33.79,503.37,Month-to-month,Credit Card,1,0
+CUST1044,Female,1,34,DSL,92.47,3106.83,Two year,Credit Card,0,1
+CUST1045,Male,1,61,DSL,114.07,6954.58,Two year,UPI,1,0
+CUST1046,Female,0,71,Fiber,66.26,4711.9,Month-to-month,UPI,0,1
+CUST1047,Female,1,45,Fiber,59.21,2713.44,Month-to-month,UPI,0,0
+CUST1048,Female,1,58,DSL,105.6,6171.11,Month-to-month,Bank Transfer,6,1
+CUST1049,Male,1,71,Fiber,26.05,1828.3,Two year,UPI,0,0
+CUST1050,Male,1,51,Fiber,55.52,2829.92,Month-to-month,Bank Transfer,1,0
+CUST1051,Male,0,53,DSL,49.81,2609.61,Month-to-month,Bank Transfer,1,1
+CUST1052,Male,0,52,Fiber,77.18,3980.14,Month-to-month,Debit Card,7,1
+CUST1053,Female,0,40,Fiber,36.18,1483.04,Two year,Bank Transfer,8,1
+CUST1054,Male,1,52,Fiber,96.62,5034.4,Month-to-month,UPI,6,0
+CUST1055,Male,0,68,Fiber,112.92,7702.1,Month-to-month,Bank Transfer,6,1
+CUST1056,Male,0,3,DSL,84.48,268.6,Two year,Debit Card,6,0
+CUST1057,Male,0,8,Fiber,118.9,977.6,Month-to-month,Bank Transfer,1,1
+CUST1058,Male,1,5,DSL,116.92,594.42,One year,UPI,2,0
+CUST1059,Male,1,1,Fiber,43.87,63.52,Month-to-month,UPI,5,1
+CUST1060,Female,0,11,Fiber,47.06,556.79,One year,Debit Card,7,1
+CUST1061,Female,0,39,DSL,55.23,2141.8,Month-to-month,Credit Card,5,0
+CUST1062,Male,0,63,Fiber,78.24,4950.52,Month-to-month,Bank Transfer,8,1
+CUST1063,Female,0,71,Fiber,53.86,3785.05,Month-to-month,Credit Card,0,0
+CUST1064,Male,1,6,Fiber,26.74,167.42,Month-to-month,Credit Card,3,0
+CUST1065,Female,1,9,,104.97,935.95,Month-to-month,Bank Transfer,6,0
+CUST1066,Male,0,40,DSL,54.46,2139.64,Month-to-month,UPI,8,1
+CUST1067,Female,0,66,Fiber,41.25,2748.31,Month-to-month,Bank Transfer,7,1
+CUST1068,Male,0,7,,48.19,300.04,Month-to-month,Debit Card,8,1
+CUST1069,Male,0,16,DSL,61.14,964.93,Month-to-month,UPI,1,0
+CUST1070,Female,0,10,Fiber,23.26,203.95,Month-to-month,Bank Transfer,5,1
+CUST1071,Female,0,11,DSL,58.99,601.57,Month-to-month,Credit Card,2,0
+CUST1072,Female,0,29,DSL,90.51,2629.5,One year,UPI,0,0
+CUST1073,Female,1,24,Fiber,71.15,1741.12,Month-to-month,Credit Card,0,0
+CUST1074,Female,0,8,DSL,67.22,564.3,Month-to-month,UPI,7,1
+CUST1075,Male,0,10,Fiber,24.69,274.27,Month-to-month,Credit Card,2,0
+CUST1076,Female,0,5,DSL,73.32,398.0,Month-to-month,Debit Card,4,1
+CUST1077,Male,0,44,Fiber,78.63,3493.03,Month-to-month,Bank Transfer,0,0
+CUST1078,Male,1,47,Fiber,74.43,3547.01,One year,Credit Card,1,0
+CUST1079,Male,1,50,Fiber,36.97,1815.17,One year,Credit Card,8,1
+CUST1080,Male,1,43,DSL,95.0,4071.08,Month-to-month,Credit Card,0,1
+CUST1081,Male,0,51,Fiber,116.61,5899.55,Month-to-month,Debit Card,3,0
+CUST1082,Male,1,11,DSL,41.47,497.73,Month-to-month,Debit Card,8,0
+CUST1083,Male,0,64,,76.82,4938.6,One year,UPI,1,0
+CUST1084,Male,1,15,Fiber,100.91,1536.01,One year,Debit Card,2,0
+CUST1085,Male,1,15,Fiber,62.22,940.88,Month-to-month,Bank Transfer,1,0
+CUST1086,Female,0,44,Fiber,85.28,3702.57,One year,Debit Card,8,0
+CUST1087,Female,1,67,DSL,78.21,5240.21,Month-to-month,Bank Transfer,5,1
+CUST1088,Male,0,49,,36.94,1805.8,Month-to-month,UPI,4,0
+CUST1089,Male,0,37,Fiber,107.01,3942.95,Two year,UPI,0,0
+CUST1090,Male,1,55,Fiber,103.19,5676.78,Month-to-month,Debit Card,2,0
+CUST1091,Female,1,71,Fiber,74.82,5282.47,Month-to-month,Debit Card,5,0
+CUST1092,Female,1,65,DSL,25.69,1629.84,One year,Debit Card,3,0
+CUST1093,Female,0,71,DSL,106.58,7520.83,Two year,Bank Transfer,8,0
+CUST1094,Female,1,27,Fiber,75.22,2005.13,Month-to-month,UPI,1,0
+CUST1095,Male,0,2,Fiber,46.91,111.65,Month-to-month,Credit Card,1,1
+CUST1096,Male,0,29,DSL,103.32,2969.93,Two year,Credit Card,4,0
+CUST1097,Female,1,53,,49.83,2605.72,Month-to-month,Debit Card,5,0
+CUST1098,Female,1,59,DSL,67.44,4023.63,One year,Bank Transfer,3,0
+CUST1099,Female,0,45,DSL,53.2,2395.83,Two year,UPI,6,1
+CUST1100,Female,0,53,DSL,50.39,2674.97,One year,UPI,8,0
+CUST1101,Male,1,25,DSL,64.35,1632.34,Month-to-month,Bank Transfer,2,0
+CUST1102,Female,0,33,DSL,111.22,3654.65,Month-to-month,UPI,5,1
+CUST1103,Male,0,67,Fiber,90.15,6011.06,Month-to-month,UPI,3,0
+CUST1104,Female,0,62,DSL,67.4,4172.93,Month-to-month,Credit Card,3,0
+CUST1105,Male,0,7,Fiber,75.01,479.54,One year,Debit Card,5,0
+CUST1106,Male,1,46,DSL,29.63,1313.38,Month-to-month,Bank Transfer,6,1
+CUST1107,Female,0,4,DSL,22.36,39.63,Two year,Debit Card,1,0
+CUST1108,Female,0,61,Fiber,104.66,6343.08,One year,Bank Transfer,4,0
+CUST1109,Male,1,20,DSL,104.0,2101.37,Month-to-month,Bank Transfer,7,0
+CUST1110,Male,0,46,DSL,36.89,1668.63,One year,Credit Card,7,0
+CUST1111,Male,1,71,Fiber,53.32,3762.82,Month-to-month,Debit Card,3,0
+CUST1112,Female,1,22,Fiber,117.99,2562.51,Month-to-month,Credit Card,8,1
+CUST1113,Female,1,44,DSL,89.75,3941.15,Month-to-month,UPI,8,1
+CUST1114,Male,0,12,DSL,91.46,1047.92,One year,Credit Card,8,0
+CUST1115,Male,0,12,Fiber,55.33,711.36,Month-to-month,Bank Transfer,5,1
+CUST1116,Female,0,60,DSL,41.89,2521.15,Month-to-month,Debit Card,8,0
+CUST1117,Female,0,36,DSL,87.09,3138.5,One year,Debit Card,4,1
+CUST1118,Female,0,20,Fiber,64.68,1301.75,Month-to-month,Bank Transfer,2,0
+CUST1119,Male,0,13,DSL,56.38,736.84,Month-to-month,Credit Card,2,0
+CUST1120,Male,0,56,Fiber,90.98,5048.98,Month-to-month,UPI,2,0
+CUST1121,Female,1,58,Fiber,85.21,4975.59,One year,Credit Card,7,0
+CUST1122,Male,0,19,Fiber,110.64,2138.25,Month-to-month,Debit Card,0,0
+CUST1123,Male,0,28,DSL,60.85,1703.78,Month-to-month,Bank Transfer,3,0
+CUST1124,Female,1,68,DSL,114.58,7822.49,Two year,UPI,8,0
+CUST1125,Female,1,34,Fiber,118.1,4032.9,Two year,Credit Card,2,0
+CUST1126,Female,0,21,DSL,37.18,741.58,One year,UPI,5,0
+CUST1127,Female,1,54,DSL,112.78,6122.5,Month-to-month,Bank Transfer,6,0
+CUST1128,Male,1,13,DSL,107.76,1386.9,Two year,Debit Card,5,1
+CUST1129,Female,1,26,DSL,104.83,2760.1,Month-to-month,UPI,7,1
+CUST1130,Female,0,63,Fiber,92.0,5796.7,Month-to-month,Debit Card,4,1
+CUST1131,Male,1,61,DSL,31.52,1923.53,Month-to-month,Bank Transfer,6,1
+CUST1132,Male,1,4,DSL,89.27,311.56,Month-to-month,Credit Card,5,1
+CUST1133,Male,1,53,DSL,102.35,5407.56,One year,Bank Transfer,7,1
+CUST1134,Male,1,26,Fiber,58.95,1574.62,Month-to-month,UPI,1,1
+CUST1135,Male,1,23,DSL,62.69,1464.17,Month-to-month,Debit Card,4,0
+CUST1136,Male,0,56,Fiber,42.11,2346.15,Month-to-month,Debit Card,4,1
+CUST1137,Female,1,9,DSL,95.78,880.4,Month-to-month,Bank Transfer,2,0
+CUST1138,Male,1,57,DSL,23.46,1317.24,Month-to-month,Debit Card,1,0
+CUST1139,Female,1,13,Fiber,100.21,1273.03,Month-to-month,Debit Card,4,0
+CUST1140,Female,1,37,Fiber,111.21,4164.15,Month-to-month,Credit Card,0,1
+CUST1141,Female,0,69,Fiber,24.52,1712.96,One year,Debit Card,6,1
+CUST1142,Female,0,16,Fiber,97.37,1593.04,One year,Credit Card,7,1
+CUST1143,Male,0,52,DSL,81.64,4218.86,Two year,Debit Card,4,0
+CUST1144,Female,1,58,DSL,35.55,2020.4,Month-to-month,Debit Card,7,0
+CUST1145,Male,1,65,DSL,86.01,5588.52,One year,Debit Card,2,0
+CUST1146,Female,0,36,,107.72,3843.92,Month-to-month,Credit Card,5,0
+CUST1147,Male,0,26,Fiber,109.29,2882.38,One year,Credit Card,7,0
+CUST1148,Male,0,24,Fiber,80.41,1897.74,Two year,Bank Transfer,3,0
+CUST1149,Male,0,14,DSL,94.96,1353.61,Two year,Bank Transfer,6,1
+CUST1150,Female,0,63,,81.21,5105.2,Month-to-month,Bank Transfer,2,0
+CUST1151,Male,0,69,Fiber,91.45,6353.18,One year,Credit Card,5,0
+CUST1152,Female,1,68,Fiber,75.89,5209.83,Month-to-month,Debit Card,8,0
+CUST1153,Male,1,16,DSL,68.99,1055.81,Month-to-month,Bank Transfer,6,1
+CUST1154,Male,0,16,Fiber,82.13,1273.62,Month-to-month,Bank Transfer,8,1
+CUST1155,Male,0,39,Fiber,102.59,4034.75,One year,UPI,7,0
+CUST1156,Female,0,51,DSL,72.06,3665.73,Month-to-month,UPI,1,0
+CUST1157,Female,1,12,Fiber,70.42,885.19,Two year,Debit Card,1,0
+CUST1158,Female,1,46,Fiber,88.88,4049.65,Two year,UPI,5,0
+CUST1159,Female,1,30,DSL,77.68,2325.68,Month-to-month,Bank Transfer,0,1
+CUST1160,Female,1,20,Fiber,60.82,1183.88,Month-to-month,Bank Transfer,3,1
+CUST1161,Female,1,71,DSL,44.02,3076.15,Month-to-month,Bank Transfer,0,0
+CUST1162,Male,1,17,Fiber,119.26,2022.14,Month-to-month,UPI,8,1
+CUST1163,Female,0,4,Fiber,70.32,251.21,Month-to-month,Credit Card,8,1
+CUST1164,Male,0,15,Fiber,86.02,1339.88,Month-to-month,UPI,5,1
+CUST1165,Male,1,40,Fiber,68.96,2724.1,Month-to-month,Debit Card,2,0
+CUST1166,Male,1,35,DSL,81.5,2890.66,One year,Debit Card,6,1
+CUST1167,Male,1,8,DSL,30.68,263.03,One year,Credit Card,0,0
+CUST1168,Female,0,58,DSL,87.12,5007.68,Month-to-month,Debit Card,3,1
+CUST1169,Male,1,43,DSL,53.7,2299.32,Month-to-month,Debit Card,3,0
+CUST1170,Female,0,53,DSL,58.36,3077.24,Month-to-month,UPI,6,0
+CUST1171,Female,1,32,,76.32,2411.02,Month-to-month,Debit Card,3,0
+CUST1172,Female,1,43,DSL,96.58,4140.96,One year,Bank Transfer,4,0
+CUST1173,Male,0,72,,98.92,7122.66,One year,UPI,1,0
+CUST1174,Male,1,51,,73.11,3740.65,Two year,Credit Card,8,0
+CUST1175,Female,0,67,Fiber,95.68,6411.39,Month-to-month,Debit Card,2,1
+CUST1176,Male,0,35,Fiber,117.65,4111.61,Month-to-month,Bank Transfer,6,0
+CUST1177,Male,1,57,Fiber,85.09,4847.35,Month-to-month,UPI,6,1
+CUST1178,Female,1,36,Fiber,85.36,3058.23,Month-to-month,Debit Card,1,1
+CUST1179,Male,0,42,DSL,61.13,2525.84,Month-to-month,Credit Card,4,0
+CUST1180,Female,1,46,DSL,96.88,4505.87,Month-to-month,Bank Transfer,5,1
+CUST1181,Female,0,69,Fiber,87.22,6059.99,Two year,UPI,3,0
+CUST1182,Male,0,62,Fiber,52.06,3238.92,One year,UPI,6,0
+CUST1183,Female,1,25,Fiber,57.68,1487.56,Two year,Bank Transfer,6,0
+CUST1184,Male,1,1,Fiber,72.98,42.7,Month-to-month,Bank Transfer,4,1
+CUST1185,Male,0,36,Fiber,80.52,2939.35,Month-to-month,UPI,3,0
+CUST1186,Male,0,8,Fiber,44.52,340.71,One year,Credit Card,1,1
+CUST1187,Male,1,66,DSL,52.71,3439.56,Month-to-month,Bank Transfer,2,0
+CUST1188,Female,1,49,Fiber,21.71,1062.3,Month-to-month,UPI,1,0
+CUST1189,Female,1,58,,41.57,2408.22,One year,UPI,3,0
+CUST1190,Male,0,67,Fiber,26.13,1734.9,One year,Bank Transfer,2,0
+CUST1191,Female,1,63,DSL,69.25,4317.41,One year,UPI,3,0
+CUST1192,Male,0,31,DSL,106.15,3283.47,Month-to-month,Debit Card,6,0
+CUST1193,Male,0,27,DSL,29.35,801.68,One year,Bank Transfer,3,0
+CUST1194,Male,0,44,Fiber,41.51,1852.86,Month-to-month,Credit Card,5,0
+CUST1195,Male,0,70,Fiber,76.18,5331.66,One year,Debit Card,8,0
+CUST1196,Female,0,24,,115.96,2776.21,Month-to-month,Debit Card,5,0
+CUST1197,Female,0,47,DSL,28.17,1281.33,Month-to-month,UPI,4,0
+CUST1198,Female,0,22,DSL,56.14,1186.61,Month-to-month,Credit Card,3,0
+CUST1199,Female,0,42,Fiber,44.42,1904.56,Month-to-month,Bank Transfer,3,0
