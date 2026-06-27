@@ -8,6 +8,7 @@ The project uses a simulated customer churn dataset containing 200 customer reco
 - Monthly Charges by Churn
 # procedure
 Predict customer churn using a decision tree classifier.
+
 Used a simulated dataset with 200 customer records, including demographics, billing, and service details.
 Performed exploratory data analysis (EDA) to visualize churn patterns.
 Encoded categorical features into numerical values.
