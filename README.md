@@ -25,4 +25,4 @@ Visualized feature importance to understand influential factors.
 
 Technologies used: Python, Pandas, Matplotlib, Scikit-learn.
 
-The project demonstrates the full machine learning workflow from data to model evaluatio
+The project demonstrates the full machine learning workflow from data to model evaluation
