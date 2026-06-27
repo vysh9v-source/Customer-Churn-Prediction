@@ -10,11 +10,19 @@ The project uses a simulated customer churn dataset containing 200 customer reco
 Predict customer churn using a decision tree classifier.
 
 Used a simulated dataset with 200 customer records, including demographics, billing, and service details.
+
 Performed exploratory data analysis (EDA) to visualize churn patterns.
+
 Encoded categorical features into numerical values.
+
 Split the data into 80% training and 20% testing sets.
+
 Trained a decision tree model to classify churn.
+
 Evaluated the model using accuracy, confusion matrix, and classification report.
+
 Visualized feature importance to understand influential factors.
+
 Technologies used: Python, Pandas, Matplotlib, Scikit-learn.
+
 The project demonstrates the full machine learning workflow from data to model evaluatio
